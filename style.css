@@ -1,4 +1,30 @@
+
 .nav-pic {
   height: 30px;
   margin-top: -4px;
+}
+.hero-pic {
+  margin-top: -20px;
+}
+.item {
+  height: 250px;
+
+}
+.center-text {
+  text-align: center;
+}
+.button {
+  border-radius: 20px;
+  color: white;
+  background-color: #002663;
+}
+.button-text {
+  margin-top: 10px;
+}
+.blue {
+  background-color: #002663;
+  color: white;
+}
+.footer {
+  height: 75px;
 }
